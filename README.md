@@ -1,4 +1,8 @@
-Figma plugin that runs [Segment Anything](https://segment-anything.com/demo) directly in your browser with [Transformers.js](https://github.com/xenova/transformers.js)  (no need for a server!)
+<img src="https://github.com/lichin-lin/figma-sam/blob/main/banner.png?raw=true" />
+
+Figma plugin that runs [Segment Anything](https://segment-anything.com/demo) directly in your browser with [Transformers.js](https://github.com/xenova/transformers.js) (no need for a server!)
+
+---
 
 Below are the steps to get your plugin running. You can also find instructions at:
 
