@@ -1,0 +1,18 @@
+{
+  "name": "figma-segment-anything",
+  "id": "00000000",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://huggingface.co/",
+      "https://cdn.jsdelivr.net/",
+      "https://cdn-lfs.huggingface.co",
+      "https://cdn-lfs-us-1.huggingface.co/"
+    ]
+  }
+}
