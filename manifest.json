@@ -1,5 +1,5 @@
 {
-  "name": "figma-segment-anything",
+  "name": "figma-segment-anything-webgpu-demo",
   "id": "00000000",
   "api": "1.0.0",
   "main": "code.js",
@@ -12,7 +12,8 @@
       "https://huggingface.co/",
       "https://cdn.jsdelivr.net/",
       "https://cdn-lfs.huggingface.co",
-      "https://cdn-lfs-us-1.huggingface.co/"
+      "https://cdn-lfs-us-1.huggingface.co/",
+      "https://cutout.glitch.me/"
     ]
   }
 }
