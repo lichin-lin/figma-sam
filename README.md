@@ -44,9 +44,3 @@ We recommend writing TypeScript code using Visual Studio code:
     you reopen Visual Studio Code.
 
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
-
-#### experiment todo
-1. ✅ make every dimension works
-2. ✅ high quality
-3. ✅ outline svg
-4. smooth the outline
